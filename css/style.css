@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+}
+
+header{
+    margin-left: 35%;
+    margin-top: 25%;
+}
+form{
+    margin-top: 5%;
+    margin-left: 25%;
+}
+
+ul{
+    margin-left: 30%;
+    margin-top: 5%;
+}
+
+ul li p{
+    cursor: pointer;
+}
